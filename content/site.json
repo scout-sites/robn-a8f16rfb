@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "name": "Robn",
+    "tagline": "Simple, powerful software. Built for Australian businesses.",
+    "description": "Robn is a cloud-based software platform designed to help Australian businesses work smarter. Based in Western Sydney, we build tools that are straightforward to use, reliable when it matters, and priced for the way real businesses operate."
+  },
+  "palette": {
+    "primary": "#1E3A5F",
+    "accent": "#3B82F6",
+    "background": "#F9FAFB",
+    "foreground": "#111827"
+  },
+  "hero": {
+    "headline": "Streamline your workflow with Robn",
+    "subhead": "A cloud-based platform built for Australian businesses who want simple, powerful tools — without the complexity or the enterprise price tag.",
+    "ctaLabel": "Get started today",
+    "ctaHref": "#contact"
+  },
+  "sections": [
+    {
+      "kind": "features",
+      "title": "Why businesses choose Robn",
+      "body": "We built Robn to cut through the noise. No bloated feature lists, no steep learning curves — just software that does the job and gets out of your way.",
+      "items": [
+        {
+          "title": "Simple by design",
+          "body": "Clean, intuitive interfaces that your team can pick up quickly — no lengthy onboarding or training sessions required."
+        },
+        {
+          "title": "Reliable when it counts",
+          "body": "Your operations don't stop, and neither does Robn. We're built on solid infrastructure so you can count on us being there."
+        },
+        {
+          "title": "Your data, your control",
+          "body": "We take data ownership seriously. Your information stays yours — accessible, secure, and never used without your knowledge."
+        },
+        {
+          "title": "Built for Australian businesses",
+          "body": "From Western Sydney to regional Australia, Robn is designed around how local businesses actually work — not a US market template."
+        }
+      ]
+    },
+    {
+      "kind": "about",
+      "title": "Based in Liverpool, NSW. Built for the whole country.",
+      "body": "Robn is a SaaS business rooted in Western Sydney. We understand the challenges facing Australian small and medium businesses because we're part of the same community. Our platform is built to give you the kind of professional-grade tooling that used to be reserved for large enterprises — at a scale and price point that makes sense for your operation."
+    },
+    {
+      "kind": "services",
+      "title": "What Robn offers",
+      "body": "Our platform brings together the tools you need to run a smoother, more connected operation — all in one place, accessible from anywhere.",
+      "items": [
+        {
+          "title": "Cloud-based platform",
+          "body": "Access your tools and data from any device, anywhere. No installs, no IT headaches — just log in and get to work."
+        },
+        {
+          "title": "SaaS subscription",
+          "body": "Straightforward subscription pricing with no hidden fees. Scale up or down as your business needs change."
+        },
+        {
+          "title": "Ongoing updates",
+          "body": "Your subscription includes continuous improvements. As Robn grows, so does the value you get — at no extra cost."
+        }
+      ]
+    },
+    {
+      "kind": "testimonials",
+      "title": "What our customers say",
+      "items": [
+        {
+          "title": "Finally, software that doesn't fight you",
+          "body": "Robn just works. We were up and running the same day and haven't looked back. — Small business owner, Western Sydney"
+        },
+        {
+          "title": "The pricing actually makes sense",
+          "body": "I've used other platforms that nickel-and-dime you for every feature. Robn is refreshingly straightforward. — Operations manager, NSW"
+        }
+      ]
+    },
+    {
+      "kind": "contact",
+      "title": "Get in touch",
+      "body": "Ready to see what Robn can do for your business? Reach out and we'll walk you through the platform — no pressure, no jargon."
+    }
+  ],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": "Liverpool, NSW, Australia",
+    "hours": null
+  },
+  "footer": {
+    "blurb": "Robn — simple, powerful software built for Australian businesses. Proudly based in Liverpool, NSW."
+  }
+}
